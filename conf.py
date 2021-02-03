@@ -9,9 +9,9 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Kepler",
+    "name": "Galileo",
     "type": "local",
-    "path": "../Kepler"
+    "path": "../Galileo"
 }
 enable_jsdelivr = {
     "enabled": False,
@@ -26,7 +26,7 @@ author = "hh-wu"
 email = "hi@.cn"
 author_homepage = "https://www.nick0x01.com"
 description = "不义而富且贵，于我如浮云"
-key_words = ['Maverick', '熊猫小A', 'kepler', 'blog']
+key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
