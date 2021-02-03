@@ -21,7 +21,7 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "hh-wu的个人博客"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2021-02-03"
+site_build_date = "2021-02-02"
 author = "hh-wu"
 email = "hi@.cn"
 author_homepage = "https://www.nick0x01.com"
